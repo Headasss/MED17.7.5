@@ -8,3 +8,5 @@ Stock ECU
 -Launch Control
 -02 lambda after cat
 -Vmax speedlimit on/off higher/lower
+
+Hot inside V. Turbos configured inside the V configuration.
