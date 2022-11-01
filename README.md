@@ -3,6 +3,11 @@ W205 platform
 
 **510hp / 375kW**
 Stock ECU
+One man, One engine.
+
+
+Petrol Piezo Direct injection system.
+Dry Sump Lubrication, direct oil extraction from the crankcases.
 
 -DTC 
 -Launch Control
@@ -10,3 +15,6 @@ Stock ECU
 -Vmax speedlimit on/off higher/lower
 
 Hot inside V. Turbos configured inside the V configuration.
+
+
+**thermal constraints**
