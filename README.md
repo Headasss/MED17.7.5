@@ -5,6 +5,13 @@ W205 platform
 Stock ECU
 One man, One engine.
 
+Maps
+1.
+2. 
+3. X
+4. X
+5. X
+
 
 Petrol Piezo Direct injection system.
 Dry Sump Lubrication, direct oil extraction from the crankcases.
@@ -18,3 +25,5 @@ Hot inside V. Turbos configured inside the V configuration.
 
 
 **thermal constraints**
+
+Boost, two-step, Launch control, traction control, fuel injection... 
